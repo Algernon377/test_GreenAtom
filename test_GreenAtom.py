@@ -42,8 +42,8 @@ url = 'https://greenatom.ru/'
 # html = get_html(url)
 # total_tags, non_empty_tags = get_tags(html)
 #
-# print(f"Total tags:{total_tags}")
-# print(f"Non-empty tags:{non_empty_tags}")
+# print(f"Всего тегов:{total_tags}")
+# print(f"Всего непустых тегов:{non_empty_tags}")
 
                                         ## Задание 4 ###
 import requests
